@@ -12,6 +12,8 @@ namespace GithubTest1
         {
 
             Console.WriteLine("This code belongs on github.com");
+
+            Console.WriteLine("Yay. We have some code in github.com. Let's add some more.");
         }
     }
 }
